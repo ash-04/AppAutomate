@@ -1,0 +1,5 @@
+groups_icon = [741, 2241]
+add_icon = [546, 2187]
+first_mem = [298, 635]
+second_mem = [321, 832]
+next_button = [538, 2187]
